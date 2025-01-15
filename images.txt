@@ -1,1 +1,1 @@
-prom/prometheus:v3.1.0
+bitnami/sonarqube:25.1.0
