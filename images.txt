@@ -1,1 +1,1 @@
-grafana/grafana:11.4.0
+jenkins:2.60.3
