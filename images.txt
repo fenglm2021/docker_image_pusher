@@ -1,1 +1,1 @@
-bitnami/sonarqube:25.1.0
+paketobuildpacks/oracle:4
