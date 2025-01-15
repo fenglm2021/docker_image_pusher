@@ -1,1 +1,1 @@
-postgres:12.22
+bitnami/kafka:3.9.0
