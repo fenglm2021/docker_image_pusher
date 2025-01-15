@@ -1,1 +1,1 @@
-nginx:stable-perl
+prom/prometheus:v3.1.0
