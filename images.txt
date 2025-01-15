@@ -1,1 +1,1 @@
-bitnami/rabbitmq:4.0.5
+mongodb/mongodb-community-server:6.0.6-ubi8
