@@ -1,1 +1,1 @@
-paketobuildpacks/oracle:4
+postgres:12.22
