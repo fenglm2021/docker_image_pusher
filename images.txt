@@ -1,1 +1,1 @@
-atlassian/confluence-server:7.19.14-ubuntu-jdk11
+atlassian/bamboo-server:8.2.0-ubuntu
