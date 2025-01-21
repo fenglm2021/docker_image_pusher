@@ -1,1 +1,1 @@
-atlassian/crowd:4.3.5-ubuntu-jdk-11
+atlassian/jira-software:8.13.9-ubuntu-jdk11
