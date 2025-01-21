@@ -1,1 +1,1 @@
-bitnami/elasticsearch:8.10.3
+postgres:12
