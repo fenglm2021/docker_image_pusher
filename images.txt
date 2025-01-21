@@ -1,1 +1,1 @@
-postgres:12
+atlassian/crowd:4.3.5-ubuntu-jdk-11
