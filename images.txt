@@ -1,1 +1,1 @@
-atlassian/bamboo-server:8.2.0-ubuntu
+anapsix/alpine-java:8_server-jre_unlimited
