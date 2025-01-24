@@ -1,1 +1,1 @@
-eclipse-temurin:17-jdk
+mysql:9.2.0
