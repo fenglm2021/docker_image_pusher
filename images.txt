@@ -1,1 +1,1 @@
-node:12-alpine
+guacamole/guacamole:1.5.5
