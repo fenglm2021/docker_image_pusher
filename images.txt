@@ -1,1 +1,1 @@
-guacamole/guacd:1.5.5
+liferay/jdk11:latest
