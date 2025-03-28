@@ -1,1 +1,1 @@
-liferay/jdk11:latest
+tomcat:8.0.24-jre8
