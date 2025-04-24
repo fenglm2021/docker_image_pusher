@@ -1,1 +1,1 @@
-tomcat:8.0.24-jre8
+mysql:8.4.5
