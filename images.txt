@@ -1,1 +1,1 @@
-timescaledb:latest-pg15
+timescale/timescaledb:latest-pg15
