@@ -1,1 +1,1 @@
-tdengine/tdengine:latest
+docker.io/dataease/sqlbot:latest
