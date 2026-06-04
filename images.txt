@@ -1,1 +1,1 @@
-docker.io/dataease/sqlbot:latest
+milvusdb/milvus:latest
