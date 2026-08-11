@@ -1,1 +1,1 @@
-sonatype/nexus3:latest
+qdrant/qdrant:v1.18.3
